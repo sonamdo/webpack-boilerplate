@@ -1,5 +1,5 @@
 {
-  "name": "Enerjee Website",
+  "name": "webpack-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Sonam",
@@ -29,7 +29,7 @@
     "express": "^4.16.3",
     "jquery": "^3.3.1",
     "live-server": "^1.2.0",
-    "node-sass": "4.5.3",
+    "node-sass": "^4.11.0",
     "normalize.css": "7.0.0",
     "popper.js": "^1.14.4",
     "react": "15.6.1",
